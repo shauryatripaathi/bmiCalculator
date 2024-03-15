@@ -1,12 +1,33 @@
 .weightClass{
-    margin-left: 30px;
+    margin-left: 40px;
+    margin-top: 50px;
 }
 
 .heightClass{
-    margin-left: 30px;
+    margin-left: 40px;
+    margin-top: 10px;
 }
 
 .features{
     display: inline-block;
-    margin-top: 50px;
+    margin-top: 30px;
+}
+
+.btnSubmit{
+    width: 70px;
+    height: 30px;
+    background-color: rgb(102, 222, 231);
+    font-size: 16px;
+    margin-top: 40px;
+    margin-left: 85px;
+    text-align: center;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.displayScreen{
+    display: inline-block;
+    background-color: white;
+    width: 200px;
+    height: 30px;
+    margin-left: 25px;
 }

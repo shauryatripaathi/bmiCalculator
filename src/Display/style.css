@@ -11,3 +11,21 @@
     margin-top: 100px;
     border-radius: 20px;
 }
+
+.navBar{
+    background-color: rgb(100, 227, 227);
+    height: 50px;
+    margin: 0;
+    min-width: 1213px;
+    font-size: 24px;
+    color: white;
+    text-align: center;
+}
+
+@media only screen and (max-width : 600px) {
+        .navBar{
+            background-color: rgb(112, 236, 143);
+            display: flex;
+            justify-content: flex-start;
+        }
+}
